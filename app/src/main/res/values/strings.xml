@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">weeMarvel</string>
+
+
+    <string name="title_character_list_screen">Wee-Exam</string>
+    <string name="default_icon_description">Icono default description</string>
+    <string name="image_default_description">imagen default description</string>
+
+
+
+
+
+    <string name="toast_error_msj">!Ups¡ ocurrio un error</string>
+    <string name="card_titl_comics">Aparición en comics</string>
+    <string name="card_titl_description">Descripción</string>
+    <string name="card_titl_no_description">Sin descripción</string>
+</resources>
